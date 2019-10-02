@@ -1,2 +1,2 @@
 # AlgoLabs
-The labs for Algorithms 2300 RPI
+The labs for CSCI 2300 Introduction to Algorithms RPI with Elliot Anshelevich
